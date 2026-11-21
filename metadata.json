@@ -1,0 +1,6 @@
+{
+  "name": "Dosewell",
+  "description": "Daily medication reminder, browser notification scheduler, and adherence tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
